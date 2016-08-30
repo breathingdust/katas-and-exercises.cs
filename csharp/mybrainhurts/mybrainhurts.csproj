@@ -49,6 +49,7 @@
     <Compile Include="Katas\KarateChop\August2016\AbstractBinarySearchTester.cs" />
     <Compile Include="Katas\KarateChop\August2016\BinarySearchTester.cs" />
     <Compile Include="Katas\KarateChop\August2016\IBinarySearch.cs" />
+    <Compile Include="Katas\KarateChop\August2016\RecursiveBinarySearch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Algorithms\ReverseAnArray.cs" />
     <Compile Include="Algorithms\ReverseAnArrayWithoutAffectingSpecialCharacters.cs" />

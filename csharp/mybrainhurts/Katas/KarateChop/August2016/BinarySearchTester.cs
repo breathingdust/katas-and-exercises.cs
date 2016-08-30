@@ -9,10 +9,14 @@ namespace mybrainhurts.Katas.KarateChop.August2016
         {
             BinarySearch = new BinarySearch();
         }
+    }
 
-        public BinarySearchTester()
+    public class RecursiveBinarySearchTester : AbstractBinarySearchTester
+    {
+        [SetUp]
+        public void SetUp()
         {
-            
+            BinarySearch = new RecursiveBinarySearch();
         }
     }
 }

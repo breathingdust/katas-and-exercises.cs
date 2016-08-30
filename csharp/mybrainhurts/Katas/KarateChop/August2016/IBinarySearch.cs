@@ -2,6 +2,6 @@
 {
     public interface IBinarySearch
     {
-        int Search(int target, int[] input);
+        int Search(int target, int[] sortedArray);
     }
 }
