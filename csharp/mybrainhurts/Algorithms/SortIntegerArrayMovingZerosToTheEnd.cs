@@ -1,11 +1,6 @@
 ﻿using NUnit.Framework;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace mybrainhurts
+namespace mybrainhurts.Algorithms
 {
     /// <summary>
     /// For a given list of integers, sort the list from least to greatest with the zeros at the end.

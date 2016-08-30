@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using NUnit.Framework;
-using NUnit.Framework.Constraints;
 
-namespace mybrainhurts
+namespace mybrainhurts.Algorithms
 {
     [TestFixture]
     class CountTripletsWithSumSmallerThanAGivenValue
@@ -52,6 +50,10 @@ namespace mybrainhurts
             return result;
         }
 
+        /// <summary>
+        /// Time: O(n^2)
+        /// Space: 
+        /// </summary>
         private static int DoTheThingBetter(int[] input, int threshold)
         {
             var result = 0;
