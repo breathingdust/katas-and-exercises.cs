@@ -1,7 +1,7 @@
 ﻿namespace mybrainhurts.Katas.KarateChop.August2016
 {
     /// <summary>
-    /// Time: O(log 2)
+    /// Time: O(log n)
     /// Set start index to beginning of array
     /// Set end to last index of array (length -1)
     /// Set initial midpoint using the indexes, for an odd numbered array it will be the middle

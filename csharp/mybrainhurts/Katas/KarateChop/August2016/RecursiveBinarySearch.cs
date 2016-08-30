@@ -1,5 +1,8 @@
 ﻿namespace mybrainhurts.Katas.KarateChop.August2016
 {
+    /// <summary>
+    /// Time: O(log n)
+    /// </summary>
     public class RecursiveBinarySearch : IBinarySearch
     {
         public int Search(int target, int[] sortedArray)
@@ -13,7 +16,7 @@
         {
             if (startIndex > endIndex) return -1;
 
-            int midpoint = (startIndex + endIndex)/2;
+            var midpoint = (startIndex + endIndex)/2;
 
             if (sortedArray[midpoint] == target) return midpoint;
 
