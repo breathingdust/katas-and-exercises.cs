@@ -44,7 +44,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\BubbleSort.cs" />
+    <Compile Include="Algorithms\AbstractSortTester.cs" />
     <Compile Include="Algorithms\CountTripletsWithSumSmallerThanAGivenValue.cs" />
+    <Compile Include="Algorithms\InsertionSort.cs" />
+    <Compile Include="Algorithms\ISorter.cs" />
+    <Compile Include="Algorithms\MergeSort.cs" />
+    <Compile Include="Algorithms\QuickSort.cs" />
+    <Compile Include="Algorithms\SortTests.cs" />
     <Compile Include="Katas\KarateChop\August2016\BinarySearch.cs" />
     <Compile Include="Katas\KarateChop\August2016\AbstractBinarySearchTester.cs" />
     <Compile Include="Katas\KarateChop\August2016\BinarySearchTester.cs" />
