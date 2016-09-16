@@ -1,4 +1,4 @@
-﻿namespace mybrainhurts.Algorithms
+﻿namespace KatasAndExercises.Algorithms
 {
     /// <summary>
     /// Time: O(n^2)

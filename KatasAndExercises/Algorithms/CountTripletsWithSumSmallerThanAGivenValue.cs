@@ -2,7 +2,7 @@
 using System.Linq;
 using NUnit.Framework;
 
-namespace mybrainhurts.Algorithms
+namespace KatasAndExercises.Algorithms
 {
     [TestFixture]
     class CountTripletsWithSumSmallerThanAGivenValue

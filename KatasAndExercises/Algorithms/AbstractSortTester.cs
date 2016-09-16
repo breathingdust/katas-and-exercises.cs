@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using NUnit.Framework;
 
-namespace mybrainhurts.Algorithms
+namespace KatasAndExercises.Algorithms
 {
     public abstract class AbstractSortTester
     {

@@ -1,4 +1,4 @@
-﻿namespace mybrainhurts.Katas.KarateChop.August2016
+﻿namespace KatasAndExercises.Katas.KarateChop.August2016
 {
     /// <summary>
     /// Time: O(log n)

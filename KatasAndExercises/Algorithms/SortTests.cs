@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace mybrainhurts.Algorithms
+namespace KatasAndExercises.Algorithms
 {
     public class BubbleSortTests : AbstractSortTester
     {

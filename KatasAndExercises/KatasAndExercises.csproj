@@ -7,8 +7,8 @@
     <ProjectGuid>{93AE508A-267C-442C-8C59-0E0CFC64C8D0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>mybrainhurts</RootNamespace>
-    <AssemblyName>mybrainhurts</AssemblyName>
+    <RootNamespace>KatasAndExercises</RootNamespace>
+    <AssemblyName>KatasAndExercises</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -50,6 +50,8 @@
     <Compile Include="Algorithms\InsertionSort.cs" />
     <Compile Include="Algorithms\ISorter.cs" />
     <Compile Include="Algorithms\MergeSort.cs" />
+    <Compile Include="Algorithms\Palindrome.cs" />
+    <Compile Include="Algorithms\PalindromeTest.cs" />
     <Compile Include="Algorithms\QuickSort.cs" />
     <Compile Include="Algorithms\SortTests.cs" />
     <Compile Include="Katas\KarateChop\August2016\BinarySearch.cs" />

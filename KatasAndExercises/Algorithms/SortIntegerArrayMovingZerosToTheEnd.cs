@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace mybrainhurts.Algorithms
+namespace KatasAndExercises.Algorithms
 {
     /// <summary>
     /// For a given list of integers, sort the list from least to greatest with the zeros at the end.

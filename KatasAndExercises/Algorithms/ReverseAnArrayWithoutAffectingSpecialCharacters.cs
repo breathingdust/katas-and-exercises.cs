@@ -1,7 +1,7 @@
 ﻿using System.Text.RegularExpressions;
 using NUnit.Framework;
 
-namespace mybrainhurts.Algorithms
+namespace KatasAndExercises.Algorithms
 {
     /// <summary>
     /// Given a string that contains special characters together with letter characters, reverse the contents of the array

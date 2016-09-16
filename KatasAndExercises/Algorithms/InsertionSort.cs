@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace mybrainhurts.Algorithms
+namespace KatasAndExercises.Algorithms
 {
     public class InsertionSort: ISorter
     {

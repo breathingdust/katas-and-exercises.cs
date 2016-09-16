@@ -1,4 +1,4 @@
-﻿namespace mybrainhurts.Algorithms
+﻿namespace KatasAndExercises.Algorithms
 {
     public class MergeSort
     {
