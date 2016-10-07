@@ -54,6 +54,7 @@
     <Compile Include="Algorithms\PalindromeTest.cs" />
     <Compile Include="Algorithms\QuickSort.cs" />
     <Compile Include="Algorithms\SortTests.cs" />
+    <Compile Include="Algorithms\Tree.cs" />
     <Compile Include="Katas\KarateChop\August2016\BinarySearch.cs" />
     <Compile Include="Katas\KarateChop\August2016\AbstractBinarySearchTester.cs" />
     <Compile Include="Katas\KarateChop\August2016\BinarySearchTester.cs" />
